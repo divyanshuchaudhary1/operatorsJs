@@ -19,3 +19,14 @@ if(email || facebook || google)
 {
 console.log("login success");
 }
+
+
+var authenticaion= true;
+if(authentication){
+console.log("show signout button");
+}
+else{
+console.log("show login option");
+}
+
+
