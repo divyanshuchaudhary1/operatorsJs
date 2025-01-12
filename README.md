@@ -30,3 +30,9 @@ console.log("show login option");
 }
 
 
+// functions
+function sayHello(name){
+console.log("hello there, Hitesh");
+console.log(`Hello`, $(name));
+}
+sayHello("Hitesh");
