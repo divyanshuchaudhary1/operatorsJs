@@ -36,3 +36,19 @@ console.log("hello there, Hitesh");
 console.log(`Hello`, $(name));
 }
 sayHello("Hitesh");
+
+function namste()
+{
+return "hello in India";
+}
+
+var greeting = namste();
+console.log(greeting);
+console.log(namste);
+ 
+
+
+
+
+
+
